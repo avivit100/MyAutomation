@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SeleniumLab">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/SeleniumLab" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/SeleniumLab" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/SeleniumLab" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/SeleniumLab" recursive="false" type="SOURCES" />
+  </library>
+</component>

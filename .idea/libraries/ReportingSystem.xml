@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ReportingSystem">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ReportingSystem" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/ReportingSystem" recursive="false" />
+  </library>
+</component>

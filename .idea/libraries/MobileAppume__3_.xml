@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="MobileAppume (3)">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/MobileAppume" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/MobileAppume" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/MobileAppume" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/MobileAppume" recursive="false" type="SOURCES" />
+  </library>
+</component>
